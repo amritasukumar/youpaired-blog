@@ -1,10 +1,10 @@
 {
   "development": {
     "apiUrl": "https://blog.youpaired.com",
-    "contentApiKey": "cc3ea5a28e1065d0eeba88c805"
+    "contentApiKey": "fbfe843b789f946fe4c91bda16"
   },
   "production": {
     "apiUrl": "https://blog.youpaired.com",
-    "contentApiKey": "cc3ea5a28e1065d0eeba88c805"
+    "contentApiKey": "fbfe843b789f946fe4c91bda16"
   }
 }
